@@ -1,0 +1,29 @@
+/* color yellow: FFC600*/
+.container{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+.container {
+    background-image:url(image1.png),url(image2.png);
+    background-position:x1 y1, x2 y2;
+    background-repeat:no-repeat;
+}
+.navbar-brand h1{
+    color: red;
+}
+.navbar-nav, li{
+    
+    float: right;
+    color: #222222;
+   
+}
+.navbar-brand{
+    color:  #222222;
+}
+.navbar{
+    background-color: #FFC600;
+    
+}
